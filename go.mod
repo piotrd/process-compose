@@ -14,7 +14,7 @@ require (
 	github.com/f1bonacc1/go-health/v2 v2.1.6
 	github.com/f1bonacc1/netstat v1.0.2
 	github.com/fatih/color v1.18.0
-	github.com/gdamore/tcell/v2 v2.13.2
+	github.com/gdamore/tcell/v2 v2.13.4
 	github.com/gin-gonic/gin v1.11.0
 	github.com/google/go-cmp v0.7.0
 	github.com/gorilla/websocket v1.5.3
